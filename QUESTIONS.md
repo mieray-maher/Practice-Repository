@@ -77,7 +77,7 @@ yes, it does.
 your PR show?**
 
 > PR link: https://github.com/IbrahimYasserM/Practice-Repository/pull/13
-it shows 3 commits and one file changed
+it shows 4 commits and 2 files changed
 
 ---
 
